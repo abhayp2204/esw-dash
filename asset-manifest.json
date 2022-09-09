@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/esw-dash/static/css/main.073c9b0a.css",
+    "main.js": "/esw-dash/static/js/main.7d6d0b75.js",
+    "static/js/787.d43e6ab2.chunk.js": "/esw-dash/static/js/787.d43e6ab2.chunk.js",
+    "static/media/logo.svg": "/esw-dash/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/esw-dash/index.html",
+    "main.073c9b0a.css.map": "/esw-dash/static/css/main.073c9b0a.css.map",
+    "main.7d6d0b75.js.map": "/esw-dash/static/js/main.7d6d0b75.js.map",
+    "787.d43e6ab2.chunk.js.map": "/esw-dash/static/js/787.d43e6ab2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7d6d0b75.js"
+  ]
+}
