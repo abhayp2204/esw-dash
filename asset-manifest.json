@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/esw-dash/static/css/main.5a8f1ad2.css",
-    "main.js": "/esw-dash/static/js/main.514cd053.js",
+    "main.css": "/esw-dash/static/css/main.141eacbe.css",
+    "main.js": "/esw-dash/static/js/main.96d7faa9.js",
     "static/js/787.d43e6ab2.chunk.js": "/esw-dash/static/js/787.d43e6ab2.chunk.js",
+    "static/media/HairDryer.png": "/esw-dash/static/media/HairDryer.f6037ca0b9922cfd23fe.png",
     "index.html": "/esw-dash/index.html",
-    "main.5a8f1ad2.css.map": "/esw-dash/static/css/main.5a8f1ad2.css.map",
-    "main.514cd053.js.map": "/esw-dash/static/js/main.514cd053.js.map",
+    "main.141eacbe.css.map": "/esw-dash/static/css/main.141eacbe.css.map",
+    "main.96d7faa9.js.map": "/esw-dash/static/js/main.96d7faa9.js.map",
     "787.d43e6ab2.chunk.js.map": "/esw-dash/static/js/787.d43e6ab2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a8f1ad2.css",
-    "static/js/main.514cd053.js"
+    "static/css/main.141eacbe.css",
+    "static/js/main.96d7faa9.js"
   ]
 }
