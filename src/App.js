@@ -3,7 +3,6 @@ import './App.css'
 import Navbar from "./Navbar"
 import Device from "./Device";
 import Select from "./Select";
-import Navbar from "./Navbar";
 import About from "./About";
 
 import axios from "axios"
